@@ -1,15 +1,9 @@
 ---
-author: Eric Anderson
+author: 
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+date: 
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
-layout: single
+excerpt: Temperature has near universal effects on biological functions, and can affect ecological interactions like predation. Long-term changes in temperature may also drive evolutionary adaptation, modifying these ecological effects of temperature. Predicting ecological interactions under climate change scenarios requires that these evolutionary effects be taken into account.
 links:
 - icon: door-open
   icon_pack: fas
@@ -22,13 +16,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Bakeoff
----
-
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
+title: Eco-Evo Interactions
 ---
 
 ### Functional Form

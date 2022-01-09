@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://matt-sasaki.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Copepod Thermal Adaptation"
