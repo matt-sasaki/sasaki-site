@@ -125,13 +125,13 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Publications"
-    title = "Project Portfolio"
+    title = "Publications"
     url = "/project/"
     weight = 3
   [[menu.header]]
     name = "Contact"
-    title = "Project Portfolio"
-    url = "/project/"
+    title = "Contact Information"
+    url = "/contact/"
     weight = 4
     
   # Configure footer  

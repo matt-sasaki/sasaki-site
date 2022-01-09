@@ -19,36 +19,5 @@ tags:
 title: Eco-Evo Interactions
 ---
 
-### Functional Form
-
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
-
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
-
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+### Ecological Effects of Thermal Adaptation
+Our ability to predict organismal responses to climate change is limited not only by an incomplete understanding of how warming affects ecological interactions and evolutionary dynamics individually, but also by the unknown capacity for the two to interact. One such potential interaction is the effect thermal adaptation will have on selective feeding, a common trait in marine copepods. Increasing temperatures may drive a large-scale shift in the diet of omnivorous copepods towards stronger herbivory (due to fundamental differences in the temperature sensitivities of various metabolic processes). Changes in the trophic position of copepods would have significant consequences for the structure of marine food webs. However, adaptation to temperature may moderate or even nullify these shifts. Taking advantage of previously documented adaptation over several different spatial and temporal scales, we are currently studying not only how temperature affects selective feeding in a widespread marine copepod, but also how adaptation to increased temperature modifies this relationship. 
