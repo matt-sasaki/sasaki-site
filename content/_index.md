@@ -1,5 +1,5 @@
 ---
-action_label: Read More &rarr;
+action_label: About Me &rarr;
 action_link: /about
 action_type: text
 description: I am a postdoctoral associate at the University of Connecticut. 
