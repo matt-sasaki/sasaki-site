@@ -126,7 +126,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/project/"
+    url = "/publication/"
     weight = 3
   [[menu.header]]
     name = "Contact"
