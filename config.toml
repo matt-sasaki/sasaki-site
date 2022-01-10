@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "University of Connecticut - Marine Sciences"
+  orgName = ""
   orgLocal = ""
   description = "Personal site for Matthew Sasaki"
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["about", "research", "publications", "contact"]
+  logo = "/img/copepod_icon.png"
+  mainSections = ["research", "publications", "contact"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -114,25 +114,20 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
-    weight = 1
-  [[menu.header]]
     name = "Research"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 2
+    weight = 1
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publication/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Contact"
     title = "Contact Information"
     url = "/contact/"
-    weight = 4
+    weight = 3
     
   # Configure footer  
   [[menu.footer]]

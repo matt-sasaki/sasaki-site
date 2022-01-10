@@ -3,7 +3,7 @@ cascade:
   headless: true
 description: |
   Additional details about myself and my research interests
-show_header: true
+show_header: false
 sidebar_left: false
 title: About
 ---
