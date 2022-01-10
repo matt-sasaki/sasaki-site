@@ -27,15 +27,15 @@ Barley, J. M., Cheng, B.S., Sasaki, M. C., Gignoux-Wolfsohn, S., Hays, C.G., Put
 
 ## 2020 
 **Sasaki, M. C.** & Dam, H. G. (2020) Genetic differentiation underlies seasonal variation in thermal tolerance, body size, and plasticity in a short-lived copepod. Ecology & Evolution. 10(21): 12200 – 12210.  
-[Publication](https://doi.org/10.1002/ece3.6851) 
+[Publication](https://doi.org/10.1002/ece3.6851) | [Code & Data](https://doi.org/10.5061/dryad.9kd51c5dg)    
 
 ## 2019
 **Sasaki, M. C.** & Dam, H. G. (2019) Integrating patterns of thermal tolerance and phenotypic plasticity with population genetics to improve understanding of vulnerability to warming in a widespread copepod. Global Change Biology. 25(12): 4147 – 4164.   
-[Publication](https://doi.org/10.1111/gcb.14811) 
+[Publication](https://doi.org/10.1111/gcb.14811) | [Data](http://lod.bco-dmo.org/id/dataset/818042)   
 
 **Sasaki, M.C.**, Hedberg, S., Richardson, K., & Dam, H.G. (2019) Complex interactions between local adaptation, phenotypic plasticity, and sex affect vulnerability to warming in a widespread marine copepod. Royal Society open science, 6(3): 182115.   
-[Publication](https://doi.org/10.1098/rsos.182115) 
+[Publication](https://doi.org/10.1098/rsos.182115) | [Code & Data](https://doi.org/10.5061/dryad.v5g6r80)   
 
 ## 2017    
 Pereira, R.J.*, **Sasaki, M.C.** *, & Burton, R. (2017) Adaptation to a latitudinal thermal gradient within a widespread copepod species: the contributions of genetic divergence and phenotypic plasticity. Proceedings of the Royal Society B: Biological Sciences, 284(1853): 20170236.   
-[Publication](https://doi.org/10.1098/rspb.2017.0236)   
+[Publication](https://doi.org/10.1098/rspb.2017.0236) | [Data](http://dx.doi.org/10.5061/dryad.bp76g)   
