@@ -1,13 +1,12 @@
 ---
-date: ""
 description: Contact Info
 draft: false
 layout: wide-body
-show_social_links: false
-title: 
+show_social_links: true
+title: Contact Info
 url: contact
 ---
 
-# Don't hesitate to get in touch! 
+### Don't hesitate to get in touch!
 
-Email address : matthew.sasaki [at] uconn.edu
+matthew.sasaki@uconn.edu      

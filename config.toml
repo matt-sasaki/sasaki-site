@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = ""
   orgLocal = ""
   description = "Personal site for Matthew Sasaki"
-  favicon = "/img/favicon.ico"
+  favicon = "/img/copepod.ico"
   logo = "/img/copepod_icon.png"
   mainSections = ["research", "publications", "contact"]
   navallcaps = true
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/copepod_icon2.jpg"
+  sharing_image = "/img/lab_icon.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "Matt_Sasaki"
   
@@ -67,14 +67,6 @@ enableEmoji = true
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
   headingFontFamily = "sans-serif"
-
-  # Configuration of https://utteranc.es/ for comments
-  [params.utterances]
-    use_utterances = true
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
-    theme = "boxy-light"
-    label = "comments :crystal_ball:"
 
   # Configuration of math rendering
   [params.math]
@@ -115,14 +107,9 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "Research"
-    title = "Project Portfolio"
+    title = "Research"
     url = "/project/"
     weight = 1
-  [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publication/"
-    weight = 2
   [[menu.header]]
     name = "Publications"
     title = "Publications"
@@ -144,7 +131,7 @@ enableEmoji = true
     name = "Accessibility"
     title = "Accessibility"
     url = "/Accessibility/"
-    weight = 3
+    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
