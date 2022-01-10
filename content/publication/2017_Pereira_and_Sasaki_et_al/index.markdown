@@ -1,26 +1,21 @@
 ---
-title: 'β-Aminopropionitrile-Induced Reduction in Enzymatic Crosslinking Causes In Vitro Changes in Collagen Morphology and Molecular Composition'
+title: 'Adaptation to a latitudinal thermal gradient within a widespread copepod species: the contributions of genetic divergence and phenotypic plasticity'
 date: '2016-11-06'
-slug: bapn-morphology
+slug: 2017_Pereira_and_Sasaki_et_al
 alias:
-  - /publication/bapn-morphology/
+  - /publication/2017_Pereira_and_Sasaki_et_al/
 categories:
   - Research
 tags:
-  - osteoblasts
-  - Type I collagen
-  - BAPN
-  - AFM
-  - crosslinking
-author: "Silvia P. Canelón & Joseph M. Wallace"
-doi: https://doi.org/10.1371/journal.pone.0166392
-publishDate: '2020-05-12T01:04:26-04:00'
+author: "Ricardo J. Pereira, Matthew C. Sasaki, and Ronald S. Burton"
+doi: http://dx.doi.org/10.1098/rspb.2017.0236
+publishDate: '2017'
 publication_types:
   - '1'
-publication: 'PLos One'
-publication_short: 'PLoS One'
-summary: 'Publication highlighting how a reduction in enzymatic crosslinking alters type I collagen morphology through an increase in D-spacing.'
-subtitle: 'Publication highlighting how a reduction in enzymatic crosslinking alters type I collagen morphology through an increase in D-spacing.'
+publication: 'Proc. B'
+publication_short: 'Proc. B'
+summary: 'Common garden experiment quantifying both thermal tolerance and developmental phenotypic plasticity in thermal tolerance.'
+subtitle: 'Common garden experiment quantifying both thermal tolerance and developmental phenotypic plasticity in thermal tolerance.'
 featured: no
 url_pdf: ~
 url_code: ~
@@ -28,7 +23,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166392
+url_source: https://royalsocietypublishing.org/doi/10.1098/rspb.2017.0236
 url_video: ~
 image:
   caption: ''
@@ -45,4 +40,4 @@ links:
 
 ## Abstract
 
-Type I collagen morphology can be characterized using fibril D-spacing, a metric which describes the periodicity of repeating bands of gap and overlap regions of collagen molecules arranged into collagen fibrils. This fibrillar structure is stabilized by enzymatic crosslinks initiated by lysyl oxidase (LOX), a step which can be disrupted using β-aminopropionitrile (BAPN). Murine in vivo studies have confirmed effects of BAPN on collagen nanostructure and the objective of this study was to evaluate the mechanism of these effects in vitro by measuring D-spacing, evaluating the ratio of mature to immature crosslinks, and quantifying gene expression of type I collagen and LOX. Osteoblasts were cultured in complete media, and differentiated using ascorbic acid, in the presence or absence of 0.25mM BAPN-fumarate. The matrix produced was imaged using atomic force microscopy (AFM) and 2D Fast Fourier transforms were performed to extract D-spacing from individual fibrils. The experiment was repeated for quantitative reverse transcription polymerase chain reaction (qRT-PCR) and Fourier Transform infrared spectroscopy (FTIR) analyses. The D-spacing distribution of collagen produced in the presence of BAPN was shifted toward higher D-spacing values, indicating BAPN affects the morphology of collagen produced in vitro, supporting aforementioned in vivo experiments. In contrast, no difference in gene expression was found for any target gene, suggesting LOX inhibition does not upregulate the LOX gene to compensate for the reduction in aldehyde formation, or regulate expression of genes encoding type I collagen. Finally, the mature to immature crosslink ratio decreased with BAPN treatment and was linked to a reduction in peak percent area of mature crosslink hydroxylysylpyridinoline (HP). In conclusion, in vitro treatment of osteoblasts with low levels of BAPN did not induce changes in genes encoding LOX or type I collagen, but led to an increase in collagen D-spacing as well as a decrease in mature crosslinks.
+Understanding how populations adapt to heterogeneous thermal regimes is essential for comprehending how latitudinal gradients in species diversification are formed, and how taxa will respond to ongoing climate change. Adaptation can occur by innate genetic factors, by phenotypic plasticity, or by a combination of both mechanisms. Yet, the relative contribution of such mechanisms to large-scale latitudinal gradients of thermal tolerance across conspecific populations remains unclear. We examine thermal performance in 11 populations of the intertidal copepod Tigriopus californicus, ranging from Baja California Sur (Mexico) to British Columbia (Canada). Common garden experiments show that survivorship to acute heat-stress differs between populations (by up to 3.8°C in LD50 values), reflecting a strong genetic thermal adaptation. Using a split-brood experiment with two rearing temperatures, we also show that developmental phenotypic plasticity is beneficial to thermal tolerance (by up to 1.3°C), and that this effect differs across populations. Although genetic divergence in heat tolerance strongly correlates with latitude and temperature, differences in the plastic response do not. In the context of climate warming, our results confirm the general prediction that low-latitude populations are most susceptible to local extinction because genetic adaptation has placed physiological limits closer to current environmental maxima, but our results also contradict the prediction that phenotypic plasticity is constrained at lower latitudes.

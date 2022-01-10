@@ -1,14 +1,14 @@
 ---
-title: Publication
+title: Publications
 description: |
   I'm happy to send copies of anything. If you don't have access to something, just shoot me an email! 
 author: "Matthew Sasaki"
-show_post_thumbnail: false
+show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
 show_post_date: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -16,14 +16,14 @@ sidebar:
   description: |
     A home for my research publications.
     
-  author: "Silvia Canelón"
+  author: ""
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside publication/
 cascade:
-  author: "Matthew Sasaki"
+  author: ""
   show_author_byline: false
   show_post_date: false
   show_comments: false # see site config to choose Disqus or Utterances
