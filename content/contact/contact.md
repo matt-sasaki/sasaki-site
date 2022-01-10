@@ -1,9 +1,8 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
-description: 
+date: ""
+description: Contact Info
 draft: false
-layout: standard
-show_poweredby_formspree: false
+layout: wide-body
 show_social_links: false
 title: 
 url: contact

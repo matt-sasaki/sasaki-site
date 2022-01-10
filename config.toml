@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Personal site for Matthew Sasaki"
   favicon = "/img/favicon.ico"
   logo = "/img/copepod_icon.png"
-  mainSections = ["research", "publications", "papers", "contact"]
+  mainSections = ["research", "publications", "contact"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/Cover_image.jpg"
+  sharing_image = "/img/copepod_icon2.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "Matt_Sasaki"
   
@@ -140,11 +140,6 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
   [[menu.footer]]
     name = "Accessibility"
     title = "Accessibility"

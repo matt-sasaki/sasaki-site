@@ -9,7 +9,7 @@ images:
 - img/avatar.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Marine Biologist | Evolutionary Ecologist
+subtitle: Marine Biologist & Evolutionary Ecologist
 text_align_left: false
 title: Matthew Sasaki
 type: home
