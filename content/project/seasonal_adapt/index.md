@@ -5,18 +5,7 @@ date:
 draft: false
 excerpt: Organisms in temperate environments often experience a large seasonal range of temperatures. In species with short generation times, this may drive patterns of rapid adaptation across generations. 
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
-tags:
-- hugo-site
+subtitle: How do populations of short-lived organisms cope with seasonal variation in temperature? 
 title: Seasonal Adaptation
 ---
 
