@@ -22,7 +22,7 @@ url: papers
 deMayo, J., Girod, A., **Sasaki, M. C.** & Dam, H. G. (2021) Adaptation to simultaneous warming and acidification carries a thermal tolerance cost in a marine copepod. Biology Letters. 17(7): 20210071.   
 [Publication](https://doi.org/10.1098/rsbl.2021.0071)  | [Code & Data](https://doi.org/10.5281/zenodo.4480338)
 
-Barley, J. M., Cheng, B.S., Sasaki, M. C., Gignoux-Wolfsohn, S., Hays, C.G., Putnam, A.B., Sheeth, S., Villeneuve, A.R., & Kelly, M.W. (2021) Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off. Proceedings of the Royal Society B: Biological Sciences, 288(1958): 288:20210765   
+Barley, J. M., Cheng, B.S., **Sasaki, M. C.**, Gignoux-Wolfsohn, S., Hays, C.G., Putnam, A.B., Sheeth, S., Villeneuve, A.R., & Kelly, M.W. (2021) Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off. Proceedings of the Royal Society B: Biological Sciences, 288(1958): 288:20210765   
 [Publication](https://doi.org/10.1098/rspb.2021.0765) | [Code](https://github.com/jmbarley1/plasticity) | [Data](https://doi.org/10.5061/dryad.zs7h44j8z)   
 
 ## 2020 
