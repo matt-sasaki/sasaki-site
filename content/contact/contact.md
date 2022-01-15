@@ -3,7 +3,7 @@ description: Contact Info
 draft: false
 layout: wide-body
 show_social_links: true
-title: Contact Info
+title: 
 url: contact
 ---
 
